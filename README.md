@@ -1,3 +1,7 @@
+[Newsletter](https://xmorse.xyz)
+
+[Twitter](https://twitter.com/__morse)
+
 
 <!--
 **remorses/remorses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
