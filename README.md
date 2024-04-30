@@ -1,6 +1,6 @@
-[Newsletter](https://xmorse.xyz)
 
-[Twitter](https://twitter.com/__morse)
+
+[𝕏](https://twitter.com/__morse)
 
 
 <!--
