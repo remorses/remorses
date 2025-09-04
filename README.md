@@ -1,8 +1,6 @@
-
-
-[𝕏](https://twitter.com/__morse)
-
 Try out [Holocron](https://holocron.so) now. Build beautiful docs websites by prompting
+
+I am [@__morse](https://twitter.com/__morse) on X
 
 <!--
 **remorses/remorses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
