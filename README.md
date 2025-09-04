@@ -1,4 +1,4 @@
-Try out [Holocron](https://holocron.so) now. Build beautiful docs websites by prompting
+Currently building [holocron.so](https://holocron.so). Build beautiful docs websites by prompting agents
 
 I am [@__morse](https://twitter.com/__morse) on X
 
